@@ -50,7 +50,7 @@ upage = 0
 
 SUP_BUTTONS = [
     [
-        Button.url("• Repo •", url="https://github.com/RaingerXD/Ultroid"),
+        Button.url("• Repo •", url="https://github.com/RaingerXD/Ultroidv2"),
         Button.url("• Support •", url="t.me/raingersupport"),
     ],
 ]
